@@ -180,4 +180,4 @@ async def ticketadd(ctx, member: discord.Member):
         await ctx.send("This command can only be used in a ticket channel.")
 
 # Run the bot
-bot.run("MTMxMzE2MzYwOTQ5MjI5MTYyNQ.GeSkbq.DbarBftri4DktfZimqa9G_4dFd3-x-Nq5isNAY")
+bot.run("MTMxMzE1NzMzODgyMzM5NzQ1Nw.GVYHDS.qG9efbTMlAqBvw_jSq1NaysXQg56AkKTqVl0-4")
